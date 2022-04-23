@@ -1,7 +1,7 @@
 <h1 align="center">Hey  👋, I'm David Ekete</h1>
 <h3 align="center"> Primarily, I'm a Backend Developer; I  write about the my projects and things i came across in my learning journey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Goodnessuc&label=Profile&theme=onedark%20views&color=0e75b6&style=flat" alt="Goodnessuc" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidekete&label=Profile&theme=onedark%20views&color=0e75b6&style=flat" alt="davidekete" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/goodylili" target="blank"><img src="https://img.shields.io/twitter/follow/David_Ekete?logo=twitter&style=for-the-badge" alt="David Ekete" /></a> </p>
@@ -33,7 +33,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/David_Ekete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="goodnessuc" height="30" width="40" /></a>
+<a href="https://twitter.com/David_Ekete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidekete" height="30" width="40" /></a>
 <a href="https://tinyurl.com/5n8ja9vw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://ng.linkedin.com/in/david-ekete-74266722a?challengeId=AQEjmFjYPXxIWQAAAYAnFThFIXwVCxH7uXZGq4x8bBT-nbzsqAWbXtN-ymsHSyUyZiCDBuMV0Jn6kABvR-IQx-KpB2NO50cIIw&submissionId=542ba375-5bb4-e516-edc9-0c9afdb89560" height="30" width="40" /></a>
 
 
