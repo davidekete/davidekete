@@ -9,13 +9,11 @@
 
 - 🌱 I’m currently learning to build **Backend Applications and Services with Node.js,Express.js,Nest.js** .
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/davidekete).
-
 - 📝 I regularly write articles on [Medium](https://medium.com/@davidekete).
 
 - 🖇 Connect with me on [LinkedIn](https://tinyurl.com/5n8ja9vw)
 
-- 💬 Ask me about **JavaScript,Typescript Backend with Node.js & Nest.js**.
+- 💬 Ask me about **JavaScript,Typescript Backend Development with Node.js, ExpressJS & Nest.js**.
 
 - 📫 How to reach me **eketedavid@gmail.com**
 
