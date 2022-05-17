@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning to build **Backend Applications and Services with Node.js,Express.js,Nest.js** .
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@davidekete).
+- 📝 I regularly write articles on [Hashnode](https://davidekete.hashnode.dev/).
 
-- 🖇 Connect with me on [LinkedIn](https://tinyurl.com/5n8ja9vw)
+- 🖇 Connect with me on [LinkedIn](https://www.linkedin.com/in/david-ekete-74266722a)
 
 - 💬 Ask me about **JavaScript,Typescript Backend Development with Node.js, ExpressJS & Nest.js**.
 
