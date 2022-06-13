@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://twitter.com/goodylili" target="blank"><img src="https://img.shields.io/twitter/follow/David_Ekete?logo=twitter&style=for-the-badge" alt="David Ekete" /></a> </p>
 
 
-- 🌱 I’m currently learning to build **Backend Applications and Services with Node.js,Express.js,Nest.js** .
+- 🌱 I build **Backend Applications and Services with Node.js,Express.js,Nest.js** .
 
-- 📝 I regularly write articles on [Hashnode](https://davidekete.hashnode.dev/).
+- 📝 You can find some of my articles on [Hashnode](https://davidekete.hashnode.dev/).
 
 - 🖇 Connect with me on [LinkedIn](https://www.linkedin.com/in/david-ekete-74266722a)
 
