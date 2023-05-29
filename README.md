@@ -8,11 +8,11 @@
 
 - 📝 Most of my articles are scattered across the web, but you can find my main blog on [makeuseof.com](https://www.makeuseof.com/author/david-ekete/).
 
-- 🖇 Connect with me on [LinkedIn](https://www.linkedin.com/in/david-ekete-74266722a)
+- 🖇 Connect with me on [LinkedIn](https://www.linkedin.com/in/david-ekete-74266722a).
 
 - 💬 Ask me about **JavaScript, Typescript, Backend Development with Node.js, ExpressJS & Nest.js**.
 
-- 📫 How to reach me **eketedavid@gmail.com**
+- 📫 How to reach me **eketedavid@gmail.com**.
 
 
 
