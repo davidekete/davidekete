@@ -1,16 +1,16 @@
 <h1 align="center">Hey  👋, I'm David Ekete</h1>
-<h3 align="center"> Backend Developer && Technical Writer</h3>
+<h3 align="center"> Software Developer && Technical Writer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidekete&label=Profile&theme=onedark%20views&color=0e75b6&style=flat" alt="davidekete" /> </p> -->
 
 
 - 🌱 I build **Backend Applications and Services in Node.js with Express.js and Nest.js** .
 
-- 📝 You can find some of my articles on [Hashnode](https://davidekete.hashnode.dev/).
+- 📝 Most of my articles are scattered across the web, but you can find my main blog on [makeuseof.com](https://www.makeuseof.com/author/david-ekete/).
 
 - 🖇 Connect with me on [LinkedIn](https://www.linkedin.com/in/david-ekete-74266722a)
 
-- 💬 Ask me about **JavaScript,Typescript Backend Development with Node.js, ExpressJS & Nest.js**.
+- 💬 Ask me about **JavaScript, Typescript, Backend Development with Node.js, ExpressJS & Nest.js**.
 
 - 📫 How to reach me **eketedavid@gmail.com**
 
