@@ -1,5 +1,5 @@
 <h1 align="center">Hey  👋, I'm David Ekete</h1>
-<h3 align="center"> Software Developer && Technical Writer</h3>
+<h3 align="center"> Software Developer and Technical Writer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=davidekete&label=Profile&theme=onedark%20views&color=0e75b6&style=flat" alt="davidekete" /> </p> -->
 
